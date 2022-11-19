@@ -1,2 +1,4 @@
-set number
-set relativenumber
+require('options')
+
+require('packer-plugins')
+
